@@ -1,6 +1,6 @@
-#import <React/RCTBridgeModule.h>
-#import <React/RCTExceptionsManager.h>
-#import <React/RCTRootView.h>
+#import "RCTBridgeModule.h"
+#import "RCTExceptionsManager.h"
+#import "RCTRootView.h"
 
 @interface RNSentry : NSObject <RCTBridgeModule, RCTExceptionsManagerDelegate>
 
