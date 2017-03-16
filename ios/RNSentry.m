@@ -1,6 +1,6 @@
 #import "RNSentry.h"
 #import "RSSwizzle.h"
-#import <React/RCTConvert.h>
+#import "RCTConvert.h"
 
 @import Sentry;
 
